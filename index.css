@@ -64,7 +64,8 @@ body {
         color: rgb(64, 201, 98); 
 } 
 #menu {
-        flex-direction: column;
+        display:flex;
+        flex-direction: row;
         width: 8vmax;
         height: auto; /* sobreescriu la declaració height: 8vmax; */
 }
