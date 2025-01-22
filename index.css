@@ -65,8 +65,7 @@ body {
 } 
 #menu {
         display:flex;
-        width: 8vmax;
-        height: 8vmax; 
+        height: 8vmax;
 }
 #menu i{
         flex: 1; 
